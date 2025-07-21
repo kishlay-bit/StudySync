@@ -5,6 +5,12 @@ Welcome to **StudySync**, a responsive and modern educational landing page built
 
 ---
 
+## Website link
+
+https://study-sync-bice.vercel.app/
+
+---
+
 ## 🚀 Project Overview
 
 > “Seamless Learning for Bright Futures”
